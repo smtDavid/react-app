@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import List from "./conponents/List";
+import List from "./components/List";
 
 const App = () => {
   const [todoList, setTodoList] = useState(
